@@ -5,14 +5,14 @@ Welcome! This repository contains my completed projects from the Codecademy Data
 
 The Data Science Foundations Skill Path is an introductory program by Codecademy that focuses on building essential data science skills. Topics covered include:
 
-Python fundamentals
+  - Python fundamentals
 
-Data cleaning & manipulation
+  - Data cleaning & manipulation
 
-SQL querying
+  - SQL querying
 
-Data visualization with matplotlib, seaborn, and pandas
+  - Data visualization with matplotlib, seaborn, and pandas
 
-Basic statistics & probability
+  - Basic statistics & probability
 
-Introduction to machine learning
+  - Introduction to machine learning
